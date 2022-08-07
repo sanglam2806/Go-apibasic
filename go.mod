@@ -1,4 +1,4 @@
-module trainingAPI
+module training
 
 go 1.18
 

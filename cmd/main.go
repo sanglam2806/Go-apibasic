@@ -1,7 +1,7 @@
 package main
 
 import (
-	"trainingAPI/controllers"
+	"training/controllers"
 )
 
 func main() {
